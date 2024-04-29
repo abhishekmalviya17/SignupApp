@@ -29,7 +29,7 @@ Before running this project, make sure you have Node.js and npm installed on you
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/abhishekmalviya17/SignupApp
 2. **Navigate to the project directory:**
     cd your-repository-name
 
