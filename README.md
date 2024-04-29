@@ -51,9 +51,9 @@ Before running this project, make sure you have Node.js and npm installed on you
 # Contributing
 Contributions to this project are welcome. To contribute:
 
-**1. Fork the repository.**
-**2. Create a new branch (git checkout -b feature/new-feature).**
-**3. Make your changes.**
-**4. Commit your changes (git commit -am 'Add some new feature').**
-**5. Push to the branch (git push origin feature/new-feature).**
-**6. Create a new Pull Request.**
+- 1. Fork the repository.
+- 2. Create a new branch (git checkout -b feature/new-feature).
+- 3. Make your changes.
+- 4. Commit your changes (git commit -am 'Add some new feature').
+- 5. Push to the branch (git push origin feature/new-feature).
+- 6. Create a new Pull Request.
