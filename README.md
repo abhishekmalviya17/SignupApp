@@ -34,19 +34,19 @@ Before running this project, make sure you have Node.js and npm installed on you
     cd your-repository-name
 
 3. **Install dependencies:**
-    npm install
+    - npm install
 
 
 ##  Running the application
 
 1. **Start the development server:**
-    npm start
+    - npm start
 
 
 ## Building for Production
 
 **To build the application for production, run the following command:**
-    npm run build
+    - npm run build
 
 # Contributing
 Contributions to this project are welcome. To contribute:
